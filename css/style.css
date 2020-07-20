@@ -55,3 +55,7 @@ header {
     float: right;
     margin-top: 60px;
 }
+
+.global-nav li {
+    float: left;
+}
