@@ -154,3 +154,8 @@ footer small {
     background-attachment: fixed;
     background-size: 100% auto;
 }
+
+.main-center {
+    width: 940px;
+    margin: 0 auto;
+}
