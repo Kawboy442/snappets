@@ -103,6 +103,7 @@ footer small {
     color: #ffffff;
     font-family: 'Bitter', serif;
     margin-bottom: 50px;
+    border: none;
 }
 
 #index .content {
