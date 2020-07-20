@@ -204,5 +204,9 @@ section {
     width: 240px;
     background-color: #f0f0f0;
     padding: 12px 0;
-    boader: 1px solid #cccccc;
+    border: 1px solid #cccccc;
+}
+
+#about .career td {
+    width: 660px;
 }
