@@ -165,3 +165,8 @@ h1 {
     font-size: 36px;
     border-bottom: 1px solid #cccccc;
 }
+
+h2 {
+    font-family: 'Bitter', serif;
+    font-size: 24px;
+}
