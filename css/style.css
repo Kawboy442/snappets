@@ -21,3 +21,8 @@ h6 {
 img {
     vertical-align: bottom;
 }
+
+ul {
+    margin: 0;
+    padding: 0;
+}
