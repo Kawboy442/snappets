@@ -87,3 +87,7 @@ footer {
     color: #ffffff;
     padding: 20px 0;
 }
+
+footer small {
+    font-size: 12px;
+}
