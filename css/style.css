@@ -185,3 +185,7 @@ h2 {
 #about .profile-txt span {
     font-weight: bold;
 }
+
+#about .profile-image {
+    float: right;
+}
