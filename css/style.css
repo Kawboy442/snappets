@@ -179,4 +179,5 @@ h2 {
 
 #about .profile-txt {
     width: 540px;
+    float: left;
 }
