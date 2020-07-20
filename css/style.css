@@ -126,4 +126,6 @@ footer small {
 
 .btn a:hover {
     text-decoration: none;
+    background-color: #ffffff;
+    color: #009cd3;
 }
