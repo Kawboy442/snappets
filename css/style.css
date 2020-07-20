@@ -123,3 +123,7 @@ footer small {
     border-radius: 5px;
     border: 3px solid #009cd3;
 }
+
+.btn a:hover {
+    text-decoration: none;
+}
