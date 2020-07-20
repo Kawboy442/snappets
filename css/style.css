@@ -212,3 +212,7 @@ section {
     padding: 12px 0 12px 40px;
     border: 1px solid #cccccc;
 }
+
+table {
+    border-spacing: 0;
+}
