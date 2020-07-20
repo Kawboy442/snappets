@@ -58,4 +58,6 @@ header {
 
 .global-nav li {
     float: left;
+    margin: 0 20px;
+    font-size: 20px;
 }
