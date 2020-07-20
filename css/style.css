@@ -135,3 +135,7 @@ footer small {
     margin: 150px auto 0 auto;
     text-align: left;
 }
+
+#index {
+    background-image: url(../images/bg-index.jpg);
+}
