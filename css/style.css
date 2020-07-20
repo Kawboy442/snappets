@@ -195,3 +195,7 @@ h2 {
     display: block;
     clear: both;
 }
+
+section {
+    margin-bottom: 35px;
+}
