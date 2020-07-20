@@ -189,3 +189,7 @@ h2 {
 #about .profile-image {
     float: right;
 }
+
+.clearfix:after {
+    content: "";
+}
