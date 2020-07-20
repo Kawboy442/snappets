@@ -8,11 +8,6 @@ body {
     line-height: 2;
 }
 
-header {
-    width: 960px;
-    height: 100px;
-}
-
 p,
 h1,
 h2,
@@ -43,4 +38,10 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
+}
+
+header {
+    width: 960px;
+    height: 100px;
+    margin: 0 auto;
 }
