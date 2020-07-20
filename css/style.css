@@ -45,3 +45,11 @@ header {
     height: 100px;
     margin: 0 auto;
 }
+
+.logo {
+    float: left;
+}
+
+.global-nav {
+    float: right;
+}
