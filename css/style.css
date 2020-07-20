@@ -181,3 +181,7 @@ h2 {
     width: 540px;
     float: left;
 }
+
+#about .profile-txt span {
+    font-weight: bold;
+}
