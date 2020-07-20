@@ -171,6 +171,8 @@ h2 {
     font-size: 24px;
 }
 
-.icon::before {
+.icon:before {
     content: "";
+    padding-right: 10px;
+    border-left: 7px solid #9cb4a4;
 }
