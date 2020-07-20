@@ -192,4 +192,5 @@ h2 {
 
 .clearfix:after {
     content: "";
+    display: block;
 }
