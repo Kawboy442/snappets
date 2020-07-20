@@ -170,3 +170,5 @@ h2 {
     font-family: 'Bitter', serif;
     font-size: 24px;
 }
+
+.icon::before {}
