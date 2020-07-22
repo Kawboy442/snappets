@@ -234,3 +234,8 @@ table {
     background-attachment: fixed;
     background-size: 100% auto;
 }
+
+.main {
+    width: 700px;
+    margin: 0 10px;
+}
