@@ -246,3 +246,7 @@ table {
     margin: 10px 0 30px;
     float: right;
 }
+
+a img :hover {
+    opacity: 0.8;
+}
