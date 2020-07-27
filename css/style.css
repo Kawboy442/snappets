@@ -415,4 +415,9 @@
                 margin-top: 40px;
                 text-align: center;
             }
+            .global-nav li {
+                display: inline;
+                float: none;
+                margin: 0 8px;
+            }
         }
