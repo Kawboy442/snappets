@@ -255,3 +255,8 @@ a img :hover {
 .sidebar h2 {
     margin-bottom: 10px;
 }
+
+.sidebar ul {
+    font-size: 16px;
+    margin-left: 20px;
+}
