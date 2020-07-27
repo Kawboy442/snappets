@@ -318,3 +318,9 @@ a img :hover {
     width: 460px;
     float: right;
 }
+
+#contact .form {
+    background-color: #eaeaea;
+    padding: 30px 50px;
+}
+}
