@@ -378,4 +378,5 @@
         #contact .form button:hover {
             background-color: #ffffff;
             color: #009cd3;
+            cursor: pointer;
         }
