@@ -339,3 +339,13 @@ a img :hover {
     width: 240px;
     height: 30px;
 }
+
+#contact .form .email {
+    width: 300px;
+    height: 30px;
+}
+
+#contact .form .tel {
+    width: 240px;
+    height: 30px;
+}
