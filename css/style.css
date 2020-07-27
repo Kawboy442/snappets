@@ -410,4 +410,9 @@
                 margin-top: 60px;
                 text-align: center;
             }
+            .global-nav {
+                float: none;
+                margin-top: 40px;
+                text-align: center;
+            }
         }
