@@ -354,3 +354,8 @@ a img :hover {
     width: 180px;
     height: 30px;
 }
+
+#contact .form .message {
+    width: 660px;
+    height: 150px;
+}
