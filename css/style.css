@@ -432,4 +432,7 @@
                 width: auto;
                 margin: 0 5%;
             }
+            h2 img {
+                max-width: 100%;
+            }
         }
