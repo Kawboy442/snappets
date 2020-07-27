@@ -245,6 +245,7 @@ table {
     width: 200px;
     margin: 10px 0 30px;
     float: right;
+    font-family: 'Bitter', serif;
 }
 
 a img :hover {
