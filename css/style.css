@@ -327,4 +327,6 @@ a img :hover {
 #contact .form dl dt {
     width: 165px;
     padding: 10px 0;
+    float: left;
+    clear: both;
 }
