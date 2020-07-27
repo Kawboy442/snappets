@@ -389,3 +389,5 @@
         #contact .form .attention {
             margin: 20px 0 0 165px;
         }
+        
+        @media screen and (max-width:600px) {}
