@@ -251,3 +251,7 @@ table {
 a img :hover {
     opacity: 0.8;
 }
+
+.sidebar h2 {
+    margin-bottom: 10px;
+}
