@@ -302,3 +302,10 @@ a img :hover {
 #contact .access table {
     float: left;
 }
+
+#contact .access th,
+#contact .access td {
+    text-align: left;
+    vertical-align: top;
+    line-height: 2.5;
+}
