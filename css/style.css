@@ -401,4 +401,8 @@
             h2 {
                 font-size: 6vw;
             }
+            header {
+                width: auto;
+                margin: 0 5%;
+            }
         }
