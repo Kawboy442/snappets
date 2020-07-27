@@ -420,4 +420,8 @@
                 float: none;
                 margin: 0 8px;
             }
+            #wrap {
+                margin-top: 40px;
+                padding: 35px 0 0;
+            }
         }
