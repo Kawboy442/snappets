@@ -435,4 +435,7 @@
             h2 img {
                 max-width: 100%;
             }
+            #portfolio {
+                background-image: url(../images/bg-portfolio-sp.jpg);
+            }
         }
