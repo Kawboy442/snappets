@@ -380,3 +380,8 @@
             color: #009cd3;
             cursor: pointer;
         }
+        
+        #contact .form .required::after {
+            content: " * ";
+            color: #ff0000;
+        }
