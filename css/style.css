@@ -438,4 +438,9 @@
             #portfolio {
                 background-image: url(../images/bg-portfolio-sp.jpg);
             }
+            .sidebar {
+                width: auto;
+                float: none;
+                margin: 0;
+            }
         }
